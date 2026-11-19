@@ -1,4 +1,4 @@
-# Generative Image Synthesis — VAE & GAN Experiments
+# Generative AI Sketch to Image Generation
 
 TensorFlow/Keras experiments covering grayscale signature synthesis with a variational autoencoder, dense GAN architectures, CIFAR-10 cat/dog image generation, and sketch/face translation scaffolding.
 
